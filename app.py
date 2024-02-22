@@ -33,5 +33,5 @@ if prompt := st.chat_input("What is up?"):
 st.text('')
 st.text('')
 st.markdown(
-    '`Create by` [santiviquez](https://twitter.com/santiviquez) | \
-         `Code:` [GitHub](https://github.com/santiviquez/iris-streamlit)')
+    '`Created by` [GenWeft]() | \
+         `Code:` [GitHub]()')
